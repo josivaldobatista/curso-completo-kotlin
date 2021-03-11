@@ -17,7 +17,7 @@ fun calculaBonusComRetorno(a: Int, b: Int, c: Int): Int {
 
 fun main() {
     /*
-    * Quando criamos a classe definimos 'fun main(){}' a palavra reservada
+    * Quando criamos a classe definimos 'fun controleDeFluxo.main(){}' a palavra reservada
     * 'fun' representa uma função em kotlin. Palavras reservadas não podem
     * ser usadas como nomes de variáveis por exemplo. O compilador consegue
     * entender a estrutura do seu código a parti das palavras reservadas.
